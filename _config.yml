@@ -24,14 +24,14 @@ author:
   avatar           : "selfi.jpg"
   name             : "Zhiyuan Chi"
   pronouns         : "she/her"  
-  bio              : "Master's degree in Internaitonal Affairs"
+  bio              : "MA in Internaitonal Affairs"
   location         : "Hangzhou, China"
   employer         : 
-  uri              : # URL
+  uri              : "https://github.com/ZhiyuanChi"
   email            : "chizhiyuan435@gmail.com"
 
   # Academic websites
-  linked           : "https://www.linkedin.zhiyuanchi"
+  linkedIn         : "https://www.linkedin.zhiyuanchi"
   github           : "https://github.com/ZhiyuanChi"
   researchgate     : # URL
 
