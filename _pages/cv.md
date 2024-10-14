@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Sci. , Beijing University of Posts and Telecommunications(expected)
-* B.S. in IoT Engineering, Shandong University of Science and Technology, 2025
+* M.A. in International Affairs(Environmental Governance), University of California, San Diego(UCSD) 2022-2024
+* B.A. in International Trade & Spanish, Beijing Normal University(BNU) 2018-2022
 
 Group
 ======
