@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I graduated from the School of Computer Science and Engineering of Shandong University of Science and Technology(SDUST) with a bachelor's degree, and am currently pursuing a master's degree in Beijing University of Posts and Telecommunications(BUPT)
+I graduated from the School of Global Policy and Strategy of California University, San Diego(UCSD) with a master's degree, and got a bachelor's degree in Beijing Normal University(BNU)
 
 # News
-*AIoTMaster纳新请点击*[CV](https://yuanjianzhang0.github.io/cv/)
+*AIoTMaster纳新请点击*[CV](https://ZhiyuanChi.github.io/cv/)
 ## **Research Interests**
   - Time series forecasting
   - Multi-modal models
-  - Computer vision
+  - Natural Language
   - Artificial intelligence
 
 ---
