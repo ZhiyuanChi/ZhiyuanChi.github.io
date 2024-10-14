@@ -12,7 +12,7 @@ title                    : "Zhiyuan Chi (池之缘)"
 title_separator          : "-"
 name                     : &name "Zhiyuan Chi (池之缘)"
 description              : &description "personal description"
-github                   : "https://ZhiyuanChi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ZhiyuanChi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,10 +24,10 @@ author:
   avatar           : "selfi.jpg"
   name             : "Zhiyuan Chi"
   pronouns         : "she/her"  
-  bio              : "MA in IA"
+  bio              : "MA in International Affairs"
   location         : "Hangzhou, China"
   employer         : 
-  github           : "https://github.com/ZhiyuanChi"
+  url              : "https://github.com/ZhiyuanChi"
   email            : "chizhiyuan435@gmail.com"
 
   # Academic websites
