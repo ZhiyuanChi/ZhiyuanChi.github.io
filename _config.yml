@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Yuanjian Zhang (张元鉴)"
+locale                   : "Hangzhou"
+title                    : "Zhiyuan Chi (池之缘)"
 title_separator          : "-"
-name                     : &name "Yuanjian Zhang (张元鉴)"
+name                     : &name "Zhiyuan Chi (池之缘)"
 description              : &description "personal description"
-url                      : https://yuanjianzhang0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ZhiyuanChi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,20 +22,20 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuanjian Zhang"
+  name             : "Zhiyuan Chi"
   pronouns         : # example: "she/her"  
-  bio              : "Master's degree in progress"
-  location         : "QingDao, China"
+  bio              : "Master's degree in Internaitonal Affairs"
+  location         : "Hangzhou, China"
   employer         : 
   uri              : # URL
-  email            : "yuanjianzhang2003@163.com"
+  email            : "chizhiyuan435@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com.hk/citations?user=YOsAVMwAAAAJ&hl=zh-CN"
+  googlescholar    : ""
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0007-4525-8098"
-  semantic         : "https://www.semanticscholar.org/author/Yuanjian-Zhang/2310835408"
+  semantic         : ""
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
