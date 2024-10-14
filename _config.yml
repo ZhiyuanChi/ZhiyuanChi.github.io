@@ -12,7 +12,7 @@ title                    : "Zhiyuan Chi (池之缘)"
 title_separator          : "-"
 name                     : &name "Zhiyuan Chi (池之缘)"
 description              : &description "personal description"
-url                      : https://ZhiyuanChi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ZhiyuanChi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -32,19 +32,16 @@ author:
 
   # Academic websites
   linked           : "https://www.linkedin.zhiyuanchi"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  github           : "https://github.com/ZhiyuanChi"
   researchgate     : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
   github           : "https://github.com/ZhiyuanChi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  instagram        : # Username
+  instagram        : # Helena_Chi
   linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
