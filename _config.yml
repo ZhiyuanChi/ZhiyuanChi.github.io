@@ -28,10 +28,11 @@ author:
   location         : "Hangzhou, China"
   employer         : 
   url              : "https://github.com/ZhiyuanChi"
+  linkedin         : "https://www.linkedin.com/in/zhiyuan-chi/"
   email            : "chizhiyuan435@gmail.com"
 
   # Academic websites
-  linkedin         : "https://www.linkedin.com/in/zhiyuan-chi/"
+  linkedin         : #username
   github           : "https://github.com/ZhiyuanChi"
 
   # Repositories and software development
