@@ -28,7 +28,7 @@ author:
   location         : "Hangzhou, China"
   employer         : 
   url              : "https://github.com/ZhiyuanChi"
-  linkedin         : "https://www.linkedin.com/in/zhiyuan-chi/"
+  Linkedin         : "https://www.linkedin.com/in/zhiyuan-chi/"
   email            : "chizhiyuan435@gmail.com"
 
   # Academic websites
@@ -37,13 +37,13 @@ author:
 
   # Repositories and software development
   github           : ZhiyuanChi
-  linkedin         : zhiyuan-chi
+  Linkedin         : "https://www.linkedin.com/in/zhiyuan-chi/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  instagram        : # Helena_Chi
-  linkedin         : # zhiyuan_chi
+  instagram        : Helena_Chi
+  linkedin         : zhiyuan-chi
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
