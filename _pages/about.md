@@ -10,8 +10,8 @@ redirect_from:
 
 I graduated from the School of Global Policy and Strategy of California University, San Diego(UCSD) with a master's degree, and got a bachelor's degree in Beijing Normal University(BNU)
 
-# News
-*AIoTMaster纳新请点击*[CV](https://ZhiyuanChi.github.io/cv/)
+# CV
+*请点击*[CV](https://ZhiyuanChi.github.io/cv/)
 ## **Research Interests**
   - Time series forecasting
   - Multi-modal models
