@@ -13,4 +13,4 @@ author_profile: true
 
 {% include base_path %}
 
-[Download CV here](https://ZhiyuanChi.github.io/files/CV.pdf)
+[Download CV here](https://ZhiyuanChi.github.io/files/CV2.pdf)
