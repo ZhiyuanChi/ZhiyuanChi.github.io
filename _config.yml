@@ -63,8 +63,8 @@ publication_category:
     title: 'Term Paper'
   Senior Paper:
     title: 'Senior Paper'    
-  Projects:
-    title: 'Projects'
+  Project:
+    title: 'Project'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
