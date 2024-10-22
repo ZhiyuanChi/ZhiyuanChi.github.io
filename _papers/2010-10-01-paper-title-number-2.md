@@ -2,7 +2,7 @@
 title: "Paper Title Number 2"
 collection: papers
 category: Term Paper
-permalink: /paper/2010-10-01-paper-title-number-2
+permalink: /papers/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
