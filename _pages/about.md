@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Graduated from the School of Global Policy and Strategy of California University, San Diego(UCSD) with a master's degree, and got a bachelor's degree in Beijing Normal University(BNU)
+
 ---
 ## **Recent Papers**
   - **Zhiyuan. Chi** and W. Xue, "RFA-YOLO-POSE: A Fusion Algorithm for Pose Detection and Object Identification Amidst Complex Crowds," 2024 5th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT), Nanjing, China, 2024, pp. 966-969, doi: 10.1109/AINIT61980.2024.10581583
