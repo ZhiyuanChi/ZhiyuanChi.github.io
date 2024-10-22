@@ -6,8 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-
+-
 Graduated from the School of Global Policy and Strategy of California University, San Diego(UCSD) with a master's degree, and got a bachelor's degree in Beijing Normal University(BNU)
 ---
 ## **Recent Papers**
