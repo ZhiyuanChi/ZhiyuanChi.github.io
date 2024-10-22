@@ -5,8 +5,13 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+<h1>{{ page.title }}</h1>
+
+{% assign papers = site.papers | sort: 'date' | reverse %}
 {% capture written_year %}'None'{% endcapture %}
-{% for paper in site.papers %}
+
+{% for paper in papers %}
   {% capture year %}{{ paper.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
