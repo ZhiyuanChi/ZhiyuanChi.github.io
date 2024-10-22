@@ -57,8 +57,8 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# Paper Category - The following the list of publication categories and their headings
-paper_category:
+# Papers Category - The following the list of publication categories and their headings
+papers_category:
   Term Paper:
     title: 'Term Paper'
   Senior Paper:
