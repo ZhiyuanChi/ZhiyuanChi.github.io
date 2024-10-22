@@ -58,7 +58,7 @@ author:
   zhihu            : # Username
 
 # Paper Category - The following the list of publication categories and their headings
-publication_category:
+paper_category:
   Term Paper:
     title: 'Term Paper'
   Senior Paper:
